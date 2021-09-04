@@ -1,3 +1,3 @@
 #Landing Page
 
-- link: https://phuongnv0800.github.io/landrick/
+- link demo: https://phuongnv0800.github.io/landrick/
